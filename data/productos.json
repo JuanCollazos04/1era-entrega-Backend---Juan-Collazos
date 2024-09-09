@@ -1,0 +1,11 @@
+PROFESOR ACÁ LE DEJO UN OBJETO DEL PROYECTO QUE ESTABA INTENTANDO HACER... ES QUE ESTUVE INTENTANDO E INTENTANDO CON EL POSTMAN Y NO ME APARECIA ACÁ PERO EN LA CONSOLA DEL POSTMAN SI ME APARECIA CORRECTAMENTE Y NO SUPE QUE HACER...
+[
+    {
+        "title": "PlayStation 5",
+        "description": "Consola PS5 Estándar 1TB Slim Blanco|Negro + 1 Control inalámbrico",
+        "price": 710,
+        "stock": 20,
+        "category": "Consola de Mesa",
+        "thumbnails": ["imagenps5.jpg"]
+    }
+]
